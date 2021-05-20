@@ -18,7 +18,7 @@ Please change the image tag in following commands to point to your own container
 
 ```sh
 podman build  -t quay.io/tcoufal/olm-catalog .
-podman push tcoufal/olm-catalog
+podman push quay.io/tcoufal/olm-catalog
 ```
 
 ## Deploy custom catalog
