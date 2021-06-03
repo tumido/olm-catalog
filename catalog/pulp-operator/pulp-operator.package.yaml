@@ -1,4 +1,4 @@
 channels:
-  - currentCSV: pulp-operator-2336a8b.v0.0.0
+  - currentCSV: pulp-operator-70b1388.v0.0.0
     name: alpha
 packageName: pulp-operator
